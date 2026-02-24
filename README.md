@@ -34,7 +34,7 @@ StockSense is a web-based stock trend prediction dashboard for Indian retail inv
 | Prithviraj Mokate | Data , Analysis & Docs |
 
 ## Live Demo
-[View Live Site](#) <!-- Replace # with your Netlify or GitHub Pages link -->
+[View Live Site](#) https://github.com/AdityaMore1508/StockSense
 
 ---
 
